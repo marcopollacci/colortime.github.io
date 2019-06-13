@@ -11,7 +11,6 @@ function appendZero(check){
     if(check <= 9) {
         return "0" + check;
     }
-
     return check;
 }
 
@@ -19,5 +18,4 @@ window.onload = function (event) {
     window.setInterval(() => {
         generateColorTime();        
     }, 1000);
-
 };

@@ -2,7 +2,7 @@ body {
     font-size: 11em;
 }
 
-div.container{
+div.container {
     display: block;
     width: 100%;
     text-align: center;
@@ -19,9 +19,9 @@ div.middle {
 
 p {
     color: #FFFFFF;
-    margin: 0px 0px 0px 0px;
+    margin: 0px;
 }
 
-p#color{
+p#color {
     font-size: 50%;
 }
